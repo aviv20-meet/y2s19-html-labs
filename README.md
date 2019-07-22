@@ -1,1 +1,1 @@
-# Retarted-Website
+# Stupid-Website
